@@ -19,7 +19,7 @@
         },
         {
             "matches": [
-                "https://www.clickcritters.com/clickexchange.php*"
+                "https://www.clickcritters.com/clickexchange.php?act=doCE*"
             ],
             "js": [
                 "ce-queue.js"
